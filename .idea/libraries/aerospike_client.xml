@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="aerospike.client" type="repository">
+    <properties maven-id="com.aerospike:aerospike-client:4.0.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aerospike-client-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gnu-crypto-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/luaj-jse-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jbcrypt-0.3m.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
